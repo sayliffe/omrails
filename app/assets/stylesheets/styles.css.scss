@@ -1,11 +1,12 @@
-/* You Could Change The Font 
+/* This Changes the font */
 $baseFontFamily: Oxygen;
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
-*/
 
-$btnPrimaryBackground: green;
-$navbarBackgroundHighlight: white;
-$navbarBackground: white;
+
+$btnPrimaryBackground: lightblue;
+$navbarBackgroundHighlight: #444;
+$navbarBackground: #666;
+$navbarLinkColor:lightblue;
 
 @import 'bootstrap';
 
@@ -25,3 +26,12 @@ body { padding-top:60px; }
 	a {
 		color:$gray;}
 	}
+
+.hero-unit h1 {color:lightblue;}
+
+.hero-unit p {color:lightblue;}
+
+.hero-unit {background-color:#222;}
+
+body {background-color:lightblue;}
+

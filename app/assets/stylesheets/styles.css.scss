@@ -3,10 +3,11 @@ $baseFontFamily: Oxygen;
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
 
 
-$btnPrimaryBackground: lightblue;
-$navbarBackgroundHighlight: #444;
+/* $btnPrimaryBackground: lightblue;  ************Changed Sign up now! button color 
+$navbarBackgroundHighlight: #444;	********* As said these three change nav bar
 $navbarBackground: #666;
 $navbarLinkColor:lightblue;
+*/
 
 @import 'bootstrap';
 
@@ -26,12 +27,12 @@ body { padding-top:60px; }
 	a {
 		color:$grayDarker;}
 	}
-
+/*    *************** This changed colors in the hero unit **************************
 .hero-unit h1 {color:lightblue;}
 
 .hero-unit p {color:lightblue;}
 
-
+    ***** This is a mixin test this one makes the hero unit translucent *****
 @mixin translucent-background($color: $black, $alpha: .09) {
   background-color: hsla(hue($color), saturation($color), lightness($color), $alpha);
 }
@@ -39,5 +40,37 @@ body { padding-top:60px; }
 .hero-unit {@include translucent-background;}
 
 
-body {@include gradient-radial; padding-bottom:500px;}
+*****THIS WAS A TEST using mixins basically the page i have bookmarked shows various mixins this one was for a radial gradient
 
+body {@include gradient-radial; padding-bottom:500px;}
+*/
+
+
+/* Required for jquery masonry */
+
+.box { 
+	margin: 5px; 
+	padding: 5px; 
+	font-size: 11px; 
+	line-height: 1.4em; 
+	float: left;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	box-shadow: 1px 1px 10px #444;
+	width: 214px;
+	}
+
+.box img {
+	display: block;
+	width:100%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+
+}
+
+
+.description {
+	margin: 10px 0 5px;
+}

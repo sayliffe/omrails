@@ -22,16 +22,22 @@ body { padding-top:60px; }
 
 .footer { 
 	margin-top:50px; 
-	color: $grayLight; 
+	color: $grayDarker; 
 	a {
-		color:$gray;}
+		color:$grayDarker;}
 	}
 
 .hero-unit h1 {color:lightblue;}
 
 .hero-unit p {color:lightblue;}
 
-.hero-unit {background-color:#222;}
 
-body {background-color:lightblue;}
+@mixin translucent-background($color: $black, $alpha: .09) {
+  background-color: hsla(hue($color), saturation($color), lightness($color), $alpha);
+}
+
+.hero-unit {@include translucent-background;}
+
+
+body {@include gradient-radial; padding-bottom:500px;}
 

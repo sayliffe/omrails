@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/ImageMagick-6
+
+Name: MagickCore
+Description: MagickCore - C API for ImageMagick (ABI Q16)
+Version: 6.8.3
+Libs: -L${libdir} -lm -lMagickCore-6.Q16
+Cflags: -I${includedir} -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16

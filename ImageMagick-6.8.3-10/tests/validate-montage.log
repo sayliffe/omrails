@@ -1,0 +1,36 @@
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834p0fnOzA9TNgM': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834MkySVt2LlO2m': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-458348Rg7wn6J3TiM': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834qciGkTDognNG': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834UeAWo6iPTRUI': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834iP6ic8Il0Vnt': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834yXIZgg5TzCt9': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834Igh6peuYhuMT': No such file or directory @ error/ps.c/ReadPSImage/836.
+validate: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+validate: Postscript delegate failed `/var/tmp/magick-45834fQ0Aq7SdSUhk': No such file or directory @ error/ps.c/ReadPSImage/836.
+1..1
+Version: ImageMagick 6.8.3-10 2013-03-21 Q16 http://www.imagemagick.org
+Copyright: Copyright (C) 1999-2013 ImageMagick Studio LLC
+
+ImageMagick Validation Suite (Montage)
+
+validate montage command line program:
+  test 0: ... pass.
+  test 1: -frame 5... pass.
+  test 2: -geometry 13x19+10+5 -gravity Center... pass.
+  test 3: -label %f... pass.
+  test 4: -pointsize 10... pass.
+  test 5: -shadow... pass.
+  test 6: -tile 3x3... pass.
+  summary: 7 subtests; 7 passed; 0 failed.
+validation suite: 7 tests; 7 passed; 0 failed.
+ok
+PASS: tests/validate-montage.tap 1

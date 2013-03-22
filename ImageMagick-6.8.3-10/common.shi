@@ -1,0 +1,21 @@
+# Test environment
+top_srcdir='/Users/scottayliffe/omrails/ImageMagick-6.8.3-10'
+top_builddir='/Users/scottayliffe/omrails/ImageMagick-6.8.3-10'
+
+set -a
+COMPARE="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/compare"
+COMPOSITE="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/composite"
+CONJURE="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/conjure"
+CONVERT="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/convert"
+DISPLAY="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/display"
+IDENTIFY="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/identify"
+MONTAGE="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities/montage" 
+VALIDATE="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/tests/validate"
+DRAWTEST="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/tests/drawtest"
+WANDTEST="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/tests/wandtest"
+LD_LIBRARY_PATH="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/magick/.libs:${LD_LIBRARY_PATH}"
+MAGICK_CODER_MODULE_PATH="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/coders"
+MAGICK_CONFIGURE_PATH="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/config:/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/config"
+MAGICK_FILTER_MODULE_PATH="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/filters"
+PATH="/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/utilities:/Users/scottayliffe/omrails/ImageMagick-6.8.3-10/tests:${PATH}"
+set +a

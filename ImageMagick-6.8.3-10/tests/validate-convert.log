@@ -1,0 +1,32 @@
+1..1
+Version: ImageMagick 6.8.3-10 2013-03-21 Q16 http://www.imagemagick.org
+Copyright: Copyright (C) 1999-2013 ImageMagick Studio LLC
+
+ImageMagick Validation Suite (Convert)
+
+validate convert command line program:
+  test 0: -noop... pass.
+  test 1: -affine 1,0,0.785,1,0,0 -transform... pass.
+  test 2: -black-threshold 20%... pass.
+  test 3: -blur 0x0.5... pass.
+  test 4: -border 6x6... pass.
+  test 5: -charcoal 0x1... pass.
+  test 6: -chop 8x6+20+30... pass.
+  test 7: -colors 16... pass.
+  test 8: -colorspace CMYK... pass.
+  test 9: -colorspace GRAY... pass.
+  test 10: -colorspace HSL... pass.
+  test 11: -colorspace HWB... pass.
+  test 12: -colorspace OHTA... pass.
+  test 13: -colorspace YCbCr... pass.
+  test 14: -colorspace YIQ... pass.
+  test 15: -colorspace YUV... pass.
+  test 16: -contrast... pass.
+  test 17: +contrast... pass.
+  test 18: -convolve 1,1,1,1,4,1,1,1,1... pass.
+  test 19: -colorize 30%/20%/50%... pass.
+  test 20: -crop 17x9+10+10... pass.
+./tests/validate-convert.tap: line 23: 45739 Abort trap: 6           ${VALIDATE} -validate convert
+  test 21: -cycle 200... pass.
+  test 22: -despecklenot ok
+ERROR: tests/validate-convert.tap - too few tests run (expected 1, got 0)

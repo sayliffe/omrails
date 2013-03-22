@@ -1,0 +1,15 @@
+0 (0)
+0
+1..1
+Version: ImageMagick 6.8.3-10 2013-03-21 Q16 http://www.imagemagick.org
+Copyright: Copyright (C) 1999-2013 ImageMagick Studio LLC
+
+ImageMagick Validation Suite (Compare)
+
+validate compare command line program:
+  test 0: -metric RMSE -fuzz 5%... pass.
+  test 1: -metric AE -fuzz 5%... pass.
+  summary: 2 subtests; 2 passed; 0 failed.
+validation suite: 2 tests; 2 passed; 0 failed.
+ok
+PASS: tests/validate-compare.tap 1

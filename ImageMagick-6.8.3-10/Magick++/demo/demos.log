@@ -1,0 +1,857 @@
+1..24
+File: /Users/scottayliffe/omrails/ImageMagick-6.8.3-10/Magick++/demo//model.miff
+  TopLeftColor     = 
+  TopRightColor    = 
+  BottomLeftColor  = 
+  BottomRightColor = 
+  filter:brightness:mean = 31077.3
+  filter:brightness:standard-deviation = 14635.5
+  filter:brightness:kurtosis = 0.657217
+  filter:brightness:skewness = 1.34114
+  filter:saturation:mean = 14031.6
+  filter:saturation:standard-deviation = 8379.05
+  filter:saturation:kurtosis = 0.631727
+  filter:saturation:skewness = 1.03422
+button: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+button: Postscript delegate failed `/var/tmp/magick-46245XSKddeRXX6Mh': No such file or directory @ error/ps.c/ReadPSImage/836.
+button: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+button: Postscript delegate failed `/var/tmp/magick-462451EXCpvTzItGk': No such file or directory @ error/ps.c/ReadPSImage/836.
+ok
+PASS: Magick++/demo/demos.tap 1
+Writing to "button_out.miff" ...
+ok
+PASS: Magick++/demo/demos.tap 2
+Read images ...
+Creating thumbnails...
+  add noise ...
+  add noise (blue) ...
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ULAd2h1AN8Fm': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ZxxamRD8ZX5Q': No such file or directory @ error/ps.c/ReadPSImage/836.
+  annotate ...
+  blur ...
+  blur red channel ...
+  border ...
+  channel ...
+  charcoal ...
+  composite ...
+  contrast ...
+  convolve ...
+  crop ...
+  despeckle ...
+  draw ...
+  edge ...
+  emboss ...
+  equalize ...
+  explode ...
+  flip ...
+  flop ...
+  frame ...
+  gamma ...
+  gaussian blur ...
+  gaussian blur channel ...
+  gradient ...
+  grayscale ...
+  implode ...
+  level ...
+  level red channel ...
+  median filter ...
+  modulate ...
+  monochrome ...
+  motion blur ...
+  negate ...
+  normalize ...
+  oil paint ...
+  ordered dither 2x2 ...
+  ordered dither 3x3...
+  ordered dither 4x4...
+  ordered dither red 4x4...
+  plasma ...
+  quantize ...
+  quantum operator ...
+  raise ...
+  reduce noise ...
+  resize ...
+  roll ...
+  rotate ...
+  scale ...
+  segment ...
+  shade ...
+  sharpen ...
+  shave ...
+  shear ...
+  spread ...
+  solarize ...
+  swirl ...
+  threshold ...
+  threshold random ...
+  unsharp mask ...
+  wave ...
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263V67dW8UYkAq3': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263_Old3KTu4DxS': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263KwM9u_x7awJT': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263JQDQ5C0CDljk': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462631MkPYir01kTi': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263-dSezPoYMy6Q': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263qlrDG-5RKYcV': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263lpTN5OE0uSSK': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263QtcW-BVGlkZz': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263oX1_h2hcBViC': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263h4RtUMXIPzBa': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263kncgETbzfChE': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Tp5-_xtP1zrY': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263nrBX5OUvfEDS': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263RI5VOZh8VW3E': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263DbI4KeST9CgH': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263L7fU9UTDFGBV': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263E7rXvvyZLccm': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263pYX9f6TzLYja': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263mIcOoLYfLUZJ': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263J3BVUl6WilrY': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263FDycSiInGQFK': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263PjUbyQ2VsuM7': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263bKoExJJvg8ZT': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263WIniJ4NUOVjx': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263pQTZni0SncL3': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263i1rzKKWERplp': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263gffqs1qs2FPx': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263F5BZyBwBXaJw': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263nKBmkF25lK0k': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263jhZc6kdp46wi': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263nvO_Oz0lct48': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263YI3tiHYPrSDL': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263GulwWttFj0EW': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263_oDEhDll98KI': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263aQJ8nZzvtNo3': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462631qKsubzk26wD': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263t9IeY8w1PVKj': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462633Er2q3so6e33': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Po-Bkh30ddP0': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263fB4odznisF6q': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263cdiUKrYNjoGa': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462633wbi_6bUyuec': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263qtbl_C3Kyf2Q': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ohfDPacWsQEc': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263GRkd-1yMJ2wD': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263aSiGzR405OgV': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ug0Lw0eX9taf': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462636ECWcU4etZCC': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Hlew7VCzFT8k': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263T9HKYoJEa8Se': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Ov1K5GScMUuO': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263CCnDE6n7azjv': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263fWnYg-Z5GI5Y': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462635uCSrqANkQGd': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263r3YFiFN6EYij': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263bTdsXhNWmR6B': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462633zsy77E1Wjma': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263iwjdUwnY8wrL': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263fgtqTyiG1S89': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263eV7F45sz7J2F': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ZIHLXCZLzo2G': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263WtXnq0gGNG5B': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263pm6SiUTmDcVW': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263vLD3bmDczkoG': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462635nAZ3nc8x8G1': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462639sRBOBC1Ac5o': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462630is7Rf8wcK54': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263oUI7W8oqi7IX': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263AzEnqbNLQWqj': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Ek-NBt1HhvRw': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263UIlCh5dIniQK': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ak0U1H6JXFnF': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263oVP0agRzol5f': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263hDyN0EjZ0N0K': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ogoyIereVaU5': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263QYyUuoCzWpWE': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263G4nHZ2t149rQ': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462630uoUVzZEHIFD': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263R00Wgn8LQLRi': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263flIjRYz2zrhW': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263PBHlsdxIPYRd': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263yGlKqzIkPkns': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263yNVV8M6SPwM4': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263u-qV7mJnFL8i': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263dBN0_T6kais6': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462632UNfQQN0Ydty': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-4626319wICVZBvWL1': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462639FrkbKUFVmqt': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263XukNdEDibxJ9': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263bOFLd9fruHwg': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263LZgS8Z7AetpO': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263CJiLOO7jugcm': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263inj9jsrZcarA': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263kDA5xa4mBla1': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263A_q-Fabjz3c8': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263AojVgLTfSTSl': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263LC2e2ZiNdkPp': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263hwegyf9aBUEQ': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263jLKl4xsqOYos': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263rtnHu5Lok5Zn': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263qlTyBUDzPgRz': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263CXxwTiMwT1aV': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462632bwcC_DOObGt': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263bWIeYhq3sGWW': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263C0NcLhPs57BN': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ttnsnSPgu6mB': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263nPneCMqZzjGH': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263HFFUayy7Vtn2': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263RMKv59HCMy4f': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Rg7azjHAaxMV': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263LmWfZ5vQgw0E': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462638QwjOqLXGhvd': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Bc68aHBKF3E9': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462639fGrh5ScRtiB': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-462632MSyK_UhDmCA': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263BUjYrdRvEyn1': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263gyOoWJYOcnlA': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263hFPpMSO4QfkY': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263BnLwwBYpFTpn': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263wJnAIJ0OJOl7': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263Tqr68QFtjq6h': No such file or directory @ error/ps.c/ReadPSImage/836.
+demo: delegate library support not built-in `Helvetica' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+demo: Postscript delegate failed `/var/tmp/magick-46263ePuvK7f0hrTV': No such file or directory @ error/ps.c/ReadPSImage/836.
+Montage images...
+Adding logo image ...
+Writing image "demo_out.miff" ...
+ok
+PASS: Magick++/demo/demos.tap 3
+Writing image "flip_out.miff" ...
+ok
+PASS: Magick++/demo/demos.tap 4
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542XN9u9RzrTgMp': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542mXitud7YmzYZ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542PPTTOLKJbJb9': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542PhG9-HnNNJfo': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542W7GHlQoOfBx4': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465421YXsDEqJuok4': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ZJaQ_uB4jOtJ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542F5JtQpWDw5NC': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ZfVuAmzn02MO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542DlIUKSd1bqzR': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465421GRWKj6KNYT2': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465420Z8qyGGJ14y6': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542rzxxNw5bjWgF': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542FzWU6Ng9gnzd': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465423NCaNeUIzxni': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542qXmwJ_UCegRO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542UeaR0IouiLGX': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542cO0acsz1BSFC': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 0
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542xNTLxujmLGrm': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542nMVEFOWblmJj': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Z1uE87xujdNC': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542z8yYxgeLMD5l': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542_73_gOnEqR4g': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542GuC-vzfE50Hq': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542w0VBnKoq3WOw': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542n39eWTHKeMYx': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Lg16J7TdOuF6': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542RMc9bb9uOQQf': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427MeRW2i6nSND': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Rj8Gx06f4046': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542qXPDxzer0sm5': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542AuQ7WhdcfS7D': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542FC-oAZidi7kA': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542rA9hDOzbBSVz': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465424JDJX_8g4WRe': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542WzcS0hkR41nI': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 30
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542DLm2wd6D5iNc': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542K-mtgA5J1okw': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427lmknNyk9iSa': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542F9amgqiSyhWJ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542zwz3QpGjmNF4': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ld4cziN4zdUD': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542yvEwLE5Nkady': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542gEVa2hrE4UO2': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542tqU4H2bVmd7j': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ZFpziKphytsS': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542A_yJrL90OmZK': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542e_oj9Ynntpm6': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542D6OncDt1ndKe': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542VA1kbB5qfCxd': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465428AVUntEZkhYG': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542CV3O4CO5Rb7u': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-4654210NT1-uQYL7H': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Zz6fYguqQxKg': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 60
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542IELhJxt8cp26': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542X2Y-fBAcKyPO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542k_il4P7p24rx': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542-lZf1J0zw6qd': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542S7f8JzIKqYmq': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542wxp8YOKm0BGO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542lNv5WAqyXJSI': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Chxs3LZqOAAP': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465421s2fZvpqeOUL': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542gwjmaGvGxNlf': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542iy1JldMLSqdH': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542cNUGkKQBfc44': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465423ICo9A2dIIWw': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542PAZ0SKiSlA4B': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427CNCChlCEBiS': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542GOWGsiSccpu1': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542EVFRHzibIO8v': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542G__9SszcnIhV': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 90
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542gtofLCmezFUE': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542dQRMxFFfm6os': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Bqh0hBumsRTv': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542w43dhLmqoSxY': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542QLP6XBWtbKB8': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542_5Rb6KNULKfh': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542rjLMxjLP7F1J': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542BKR7Eo0aTvNP': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542OYGLKnUHXmo2': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542k2xayskwO6RN': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542KpcLpFJd3XcV': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542aRE-DwGZ0ceS': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542_PFtuGS55Iku': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Z7RESpCzMHif': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542n8i-yzy6OpdA': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465429BwonmBkcjHS': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542VfxQ_ngsCFZR': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542eZ101UCpBkQm': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 120
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542MVKeyc2GXDgU': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542t80FJ4hcq7pr': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ZXoUSlFZt1DU': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542l_Cn0qxUWNph': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Es6zDKksz3tO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465429r91ds8Jum3K': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542DhiuQqTpsolx': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542MgXsSOfGfbJU': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ta_ec2CM6c6R': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542fvYtmkPQnt38': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542mi049rRRw5oD': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465424kjOiW3xQb9e': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542nhsq44QMzcVW': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542B-TV0d6lkeED': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427NFXWQpg9tXn': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542PJH1Zy9HaFTr': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542EEUvdqlYqOrD': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542CbCs-IOjpePi': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 150
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542btmZ8w8uJ34Z': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542SpAXc-AZyiF3': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Ssi1nncxdWav': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542MOHGFejXQkxW': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542jSy47CCiU6UC': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465425tkbyhRU9Fbc': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542TkVivJ0HoASh': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542CFfz17HoogLB': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542SONyMhspVggf': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542iotk0Dyo9Lin': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542KgMTJMf7WdYI': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542hF_-zFnIqdYA': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542jO4rUoZyniPr': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542Ejti-u0C2dti': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542M_sto-3bH4Y5': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427htQ2LSBAsTm': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542JBTSGgYjnABA': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HCgCg0gHWzd8': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 180
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542EeNYwonAl9MD': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542uKV2kzVDTQcE': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542k2jQu1jgX157': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542GEN0wNtug6B4': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465426t-mqQBXBw6l': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542TxGCPrdltmgZ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542VxwAZucfdN6U': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542wk33lvPVj6u7': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542l0jxOIJhxZgv': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542DfmvgDfgNXOQ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542yPRrakIJKKHk': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HDFQQQWlcwdl': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542oFOab9S0ccXv': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542PIhGXW6MBtRO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HVAH-dpX5g1y': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542axdN7pqlauTI': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542onQEB4HgM97x': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542xgSQGyeHVgnR': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 210
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465428k-oPzMx1Hq4': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-4654252lTHV8iybUd': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542_a8qi8BUfer0': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542VsfuB4PCcc2g': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427_Fj9SFeuc3O': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542VO2QJ6FwdRKf': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542jYXoOjENhxz4': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465425p2oSDK2iwX0': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ugIbP_KEI72u': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-4654215vcuQpb19TQ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542GU17PHQjiavA': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542tjwyBBMMtM7x': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542bvoLbfwS5Di6': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465421m4ViUxxtrGi': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HKL_Clp9h4nB': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542fRnOHRyMIeDc': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542ZZgSMPh9E9S1': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-4654226JDwiRR44Pe': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 240
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542wodbny26YfVS': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-4654241x3GnD7l22D': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542WaeD0QaiNani': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465426Xn9Wp8rt9yI': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465423q_vUnHtFnGR': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542cfyd9oUodYpL': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542BljGAivGTHsu': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542hAv5K5YTUquA': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542o9DC9u0pbAr1': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542LmvQ7eDXqdjR': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542utzqpY9Oin2z': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542WgKaY9K5XyJP': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542j_C5Rrf6LLLl': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542sNm1ljTBvGyy': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HPKs84fNe0sg': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465424E4kG_Wq07gV': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542kD1qSEdm5y6F': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427woB-zM8D1ug': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 270
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542I93191J9NRTz': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HwWhU75hSk8x': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465426RkNrDvjxgbB': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542w0Mk6R12suQs': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542CwNXKci0l85T': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542o1auYnO4MdvZ': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542v5xSP5wXKHAP': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542W1-HWztZYSKd': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465424AZ-suU6vKoh': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542rxyHIg4JXnk6': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542hq5SVkFO77AE': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542AhH6FZfK752T': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542qW6zLGot6FvY': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542QHHq107jHMXr': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-4654285_7MPN66RXE': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542HjctvnMWytS6': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542L4FYm8V1oBHP': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542oma-M38eB5aW': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 300
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542-oJMN8T19n0p': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465427GhGPGd9lDoy': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542AyN2m-MR2nqs': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542EkiZ1QWZ2aGx': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542W9FVv11FtMEy': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542uhMMJVEoBc0g': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542FWBj9NGqgzw2': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542cBrv-zyaLIGh': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542MBogfdzg3nvO': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: pixels are not authentic `#FFFFFFFFFFFF' @ error/cache.c/QueueAuthenticPixelCacheNexus/4042.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542XkoMuxkRZdtT': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542OootgjxLuDjz': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542hQSyXg4ODx7s': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465422oHeUh5XMmkm': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542W866qzmZehfy': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542qViCczFYw6KT': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542UWUUX44zplo7': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-465421l3TetgkmPSR': No such file or directory @ error/ps.c/ReadPSImage/836.
+gravity: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+gravity: Postscript delegate failed `/var/tmp/magick-46542CM6s0oI3ei7A': No such file or directory @ error/ps.c/ReadPSImage/836.
+angle 330
+Writing image "gravity_out.miff" ...
+piddle: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+piddle: Postscript delegate failed `/var/tmp/magick-46988CAwUxrGNrMmk': No such file or directory @ error/ps.c/ReadPSImage/836.
+piddle: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+piddle: Postscript delegate failed `/var/tmp/magick-46988-Stjx_vum6K2': No such file or directory @ error/ps.c/ReadPSImage/836.
+ok
+PASS: Magick++/demo/demos.tap 5
+Writing image "piddle_out.miff" ...
+Writing MVG metafile "piddle_out.mvg" ...
+shapes: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+shapes: Postscript delegate failed `/var/tmp/magick-47006BCf8FM24zoOj': No such file or directory @ error/ps.c/ReadPSImage/836.
+shapes: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+shapes: Postscript delegate failed `/var/tmp/magick-47006dTUgpsnEhomv': No such file or directory @ error/ps.c/ReadPSImage/836.
+shapes: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+shapes: Postscript delegate failed `/var/tmp/magick-47006A7c-OpQMCBTI': No such file or directory @ error/ps.c/ReadPSImage/836.
+shapes: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+shapes: Postscript delegate failed `/var/tmp/magick-47006q29w_U63uY0Z': No such file or directory @ error/ps.c/ReadPSImage/836.
+shapes: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+shapes: Postscript delegate failed `/var/tmp/magick-47006nJdLv39LndOq': No such file or directory @ error/ps.c/ReadPSImage/836.
+shapes: delegate library support not built-in `none' (Freetype) @ warning/annotate.c/RenderFreetype/1527.
+shapes: Postscript delegate failed `/var/tmp/magick-47006fqnu4_WpsyXf': No such file or directory @ error/ps.c/ReadPSImage/836.
+ok
+PASS: Magick++/demo/demos.tap 6
+Writing image "shapes_out.miff" ...
+ok
+PASS: Magick++/demo/demos.tap 7
+ok
+PASS: Magick++/demo/demos.tap 8
+ok
+PASS: Magick++/demo/demos.tap 9
+ok
+PASS: Magick++/demo/demos.tap 10
+ok
+PASS: Magick++/demo/demos.tap 11
+ok
+PASS: Magick++/demo/demos.tap 12
+ok
+PASS: Magick++/demo/demos.tap 13
+ok
+PASS: Magick++/demo/demos.tap 14
+ok
+PASS: Magick++/demo/demos.tap 15
+ok
+PASS: Magick++/demo/demos.tap 16
+ok
+PASS: Magick++/demo/demos.tap 17
+ok
+PASS: Magick++/demo/demos.tap 18
+ok
+PASS: Magick++/demo/demos.tap 19
+ok
+PASS: Magick++/demo/demos.tap 20
+ok
+PASS: Magick++/demo/demos.tap 21
+ok
+PASS: Magick++/demo/demos.tap 22
+ok
+PASS: Magick++/demo/demos.tap 23
+ok
+PASS: Magick++/demo/demos.tap 24

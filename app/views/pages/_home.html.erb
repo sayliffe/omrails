@@ -3,6 +3,29 @@
 <% else %>
 
 <div class="hero-unit">
+	<div class="hpsignup">
+	<p>New to OMRails? Sign up Today!!!</p>
+	<%= simple_form_for("user", :url => user_registration_path, html: { class: 'form-horizontal'}) do |f| %>
+  	<%= f.input :name, :wrapper => :prepend, :label => false do %>
+            <%= content_tag :span, "name", :class => "add-on" %>
+            <%= f.input_field :name %>
+            <% end %> 
+  	<%= f.input :email, :wrapper => :prepend, :label => false do %>
+            <%= content_tag :span, "email", :class => "add-on" %>
+            <%= f.input_field :email %>
+            <% end %> 
+  	<%= f.input :password, :wrapper => :prepend, :label => false do %>
+            <%= content_tag :span, "password", :class => "add-on" %>
+            <%= f.input_field :password %>
+            <% end %> 
+  	<%= f.input :password_confirmation, :wrapper => :prepend, :label => false do %>
+            <%= content_tag :span, "confirm password", :class => "add-on" %>
+            <%= f.input_field :password_confirmation %>
+            <% end %> 
+  	<br/>
+  	<%= f.submit 'Sign up', class: "btn btn-primary" %>
+<% end %>
+	</div>
 	<h1>Welcome to One Month Rails</h1>
 	<p>
 		You've found the home page for the
@@ -11,12 +34,9 @@
 
 	</p>
 
-	<p> <%= link_to "Sign up now!", new_user_registration_path, class: "btn btn-primary btn-large" %> </p>
+	<!-- SIGN UP BUTTON <p> <%= link_to "Sign up now!", new_user_registration_path, class: "btn btn-primary btn-large" %> </p> -->
 </div>
 
 
 
 <% end %>
-
-
-

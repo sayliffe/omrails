@@ -12,8 +12,8 @@ jQuery ->
   $container.imagesLoaded ->
     $container.masonry
       itemSelector: ".box"
-      gutterWidth:20
-#      columnWidth: 50
+      gutterWidth:10
+      columnWidth: 50
 # the columnWidth came with script not sure exactly how but at 50 it only allow three pins with it removed it fills up the container with them may need to remove if a problem arises
 
   $container.infinitescroll

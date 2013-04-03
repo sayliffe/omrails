@@ -27,7 +27,23 @@
             <li><%= link_to "Edit Profile", edit_user_registration_path %> </li>
             <li><%= link_to "Logout", destroy_user_session_path, method: :delete %></li>
           <% else %>         
-          	<li><%= link_to "Login", new_user_session_path %></li>
+        <!--  	<li><%= link_to "Login", new_user_session_path %></li> -->
+      <!--  <li>Sign In</li> -->
+        <li><%= simple_form_for("user", :url => user_session_path, html: { class: 'form-horizontal'}) do |f| %></li>
+        
+        <li><%= f.input :email, :wrapper => :prepend, :label => false do %>
+            <%= content_tag :span, "email", :class => "add-on" %>
+            <%= f.input_field :email %>
+            <% end %> 
+        </li>
+  
+        <li><%= f.input :password, :wrapper => :prepend, :label => false do %>
+            <%= content_tag :span, "password", :class => "add-on" %>
+            <%= f.input_field :password %>
+            <% end %> 
+        </li>
+  <li><%= f.submit 'Sign in' %></li>
+<% end %>
 		      <% end %>
         </ul>
       

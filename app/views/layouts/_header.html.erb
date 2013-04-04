@@ -29,7 +29,7 @@
           <% else %>         
         <!--  	<li><%= link_to "Login", new_user_session_path %></li> -->
       <!--  <li>Sign In</li> -->
-        <li><%= simple_form_for("user", :url => user_session_path, html: { class: 'form-horizontal'}) do |f| %></li>
+        <li><%= simple_form_for("user", :url => user_session_path, html: { class: 'form-inline'}) do |f| %></li>
         
         <li><%= f.input :email, :wrapper => :prepend, :label => false do %>
             <%= content_tag :span, "email", :class => "add-on" %>

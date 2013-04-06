@@ -5,24 +5,11 @@
 <div class="hero-unit">
 	<div class="hpsignup">
 	<p>New to OMRails? Sign up Today!!!</p>
-	<%= simple_form_for("user", :url => user_registration_path, html: { class: 'form-horizontal'}) do |f| %>
-  	<%= f.input :name, :wrapper => :prepend, :label => false do %>
-            <%= content_tag :span, "name", :class => "add-on" %>
-            <%= f.input_field :name %>
-            <% end %> 
-  	<%= f.input :email, :wrapper => :prepend, :label => false do %>
-            <%= content_tag :span, "email", :class => "add-on" %>
-            <%= f.input_field :email %>
-            <% end %> 
-  	<%= f.input :password, :wrapper => :prepend, :label => false do %>
-            <%= content_tag :span, "password", :class => "add-on" %>
-            <%= f.input_field :password %>
-            <% end %> 
-  	<%= f.input :password_confirmation, :wrapper => :prepend, :label => false do %>
-            <%= content_tag :span, "confirm password", :class => "add-on" %>
-            <%= f.input_field :password_confirmation %>
-            <% end %> 
-  	<br/>
+	<%= simple_form_for("user", :url => user_registration_path) do |f| %>
+  	<%= f.input :name, label: false, placeholder: 'name' %>
+  	<%= f.input :email, label: false, placeholder:  'email' %>
+  	<%= f.input :password,label: false, placeholder: 'password' %>
+  	<%= f.input :password_confirmation,label: false, placeholder: 'confirm password' %>
   	<%= f.submit 'Sign up', class: "btn btn-primary" %>
 <% end %>
 	</div>
@@ -34,7 +21,7 @@
 
 	</p>
 
-	<!-- SIGN UP BUTTON <p> <%= link_to "Sign up now!", new_user_registration_path, class: "btn btn-primary btn-large" %> </p> -->
+
 </div>
 
 

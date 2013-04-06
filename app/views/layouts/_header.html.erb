@@ -1,6 +1,6 @@
 <div class="navbar navbar-fixed-top"> 
-  <div class="navbar-inner">
-    <div class="container">
+  <div class="navbar-inner">  
+   <div class="container"> 
  
       <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
       <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -26,29 +26,36 @@
             <li><%= link_to "Add +", new_pin_path %></li>
             <li><%= link_to "Edit Profile", edit_user_registration_path %> </li>
             <li><%= link_to "Logout", destroy_user_session_path, method: :delete %></li>
-          <% else %>         
+          <% else %>   
+
         <!--  	<li><%= link_to "Login", new_user_session_path %></li> -->
       <!--  <li>Sign In</li> -->
-        <li><%= simple_form_for("user", :url => user_session_path, html: { class: 'form-inline'}) do |f| %></li>
-        
-        <li><%= f.input :email, :wrapper => :prepend, :label => false do %>
-            <%= content_tag :span, "email", :class => "add-on" %>
-            <%= f.input_field :email %>
-            <% end %> 
-        </li>
-  
-        <li><%= f.input :password, :wrapper => :prepend, :label => false do %>
-            <%= content_tag :span, "password", :class => "add-on" %>
-            <%= f.input_field :password %>
-            <% end %> 
-        </li>
-  <li><%= f.submit 'Sign in' %></li>
+
+<li class="dropdown">
+    <a class="dropdown-toggle"
+       data-toggle="dropdown"
+       href="#">
+        Log In
+        <b class="caret"></b>
+      </a>
+<ul class="dropdown-menu">
+
+        <li><%= simple_form_for("user", :url => user_session_path, html: { class: 'form-horizontal'}) do |f| %></li>
+          <li class="loginnav"><%= f.input :email, label: false, placeholder:  'email' %></li> 
+           <li class="loginnav"><%= f.input :password, label: false, placeholder:  'password' %></li> 
+
+       
+  <li class="loginnav"><%= f.submit 'log in' %></li>
 <% end %>
 		      <% end %>
         </ul>
-      
+      </li>
+               <li><a href="#">|</a></li>
+      <li> <%= link_to "Sign up", new_user_registration_path%> </li>     
+
+    </ul>
       </div>
  
     </div>
-  </div>
+  </div> 
 </div>

@@ -1,54 +1,61 @@
+
+
 /* This Changes the font */
 $baseFontFamily: Oxygen;
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
 
 
-/* $btnPrimaryBackground: lightblue;  ************Changed Sign up now! button color 
-$navbarBackgroundHighlight: #444;	********* As said these three change nav bar
-$navbarBackground: #666;
+$btnPrimaryBackground: lightblue;  
+$navbarBackgroundHighlight: #444;	
+$navbarBackground: #13101d;
 $navbarLinkColor:lightblue;
-*/
+
 
 @import 'bootstrap';
 
-body { padding-top:60px; }
+body { padding-top:60px; margin: 0;
+    background: url('gradbg2.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;}
 
 
 @import 'bootstrap-responsive';
 
-/* this makes the container 100% the herounit will reach full length
-.container {margin-left: 0; margin-right: 0; width:100%;}
-#pins {margin-left:100px;margin-right:auto;}
-*/
-.navbar-inner {
-	@include box-shadow(none !important);
-	border: 1;
+@mixin translucent-background($color: $black, $alpha: .2) {
+  background-color: hsla(hue($color), saturation($color), lightness($color), $alpha);
 }
 
-.footer { background:$grayLighter;
+.container {margin-left: 0; margin-right: 0; width:100%;}
+#pins {margin-left:100px;margin-right:auto;}
+
+
+
+.navbar-inner { @include box-shadow(none !important);background:#13101d;
+	border: 1;
+} 
+
+.footer { background:#13101d;
           height:40px;
 	       margin-top:90px; 
-         box-shadow: 1px 1px 4px #444;
-	       color: $grayDarker; text-align:center;
+         box-shadow: 1px 1px 4px #fff;
+	       color: $grayLighter; text-align:center;
 	     a {
-		    color:$grayDarker;}
+		    color:$grayLighter;}
 	     }
 
 
-/*    *************** This changed colors in the hero unit **************************
+
 .hero-unit h1 {color:lightblue;}
 
 .hero-unit p {color:lightblue;}
 
-    ***** This is a mixin test this one makes the hero unit translucent *****
-@mixin translucent-background($color: $black, $alpha: .09) {
-  background-color: hsla(hue($color), saturation($color), lightness($color), $alpha);
-}
-
-.hero-unit {@include translucent-background;}
 
 
-*****THIS WAS A TEST using mixins basically the page i have bookmarked shows various mixins this one was for a radial gradient
+
+.hero-unit {@include translucent-background;margin-top:70px;min-height:200px;}
+
+
+/* *****THIS WAS A TEST using mixins basically the page i have bookmarked shows various mixins this one was for a radial gradient
 
 body {@include gradient-radial; padding-bottom:500px;}
 */
@@ -56,7 +63,7 @@ body {@include gradient-radial; padding-bottom:500px;}
 
 /* Required for jquery masonry */
 
-.box { 
+.box { @include translucent-background;
 	margin: 5px; 
 	padding: 5px; 
 	font-size: 11px; 
@@ -65,7 +72,7 @@ body {@include gradient-radial; padding-bottom:500px;}
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-	box-shadow: 1px 1px 3px #000;
+	box-shadow: 1px 1px 3px #fff;
 	width: 193px;
 	}
 
@@ -77,6 +84,8 @@ body {@include gradient-radial; padding-bottom:500px;}
 	border-radius: 5px;
 
 }
+
+.box p {color:#999;}
 
 .img-polaroid {
   padding: 4px;
@@ -195,6 +204,9 @@ body {@include gradient-radial; padding-bottom:500px;}
 }
 
 .hpsignup {float:right; margin-top:-55px;padding:0;}
-.hpsignup .btn-primary{margin-left:300px;margin-top:-70px;}
+.hpsignup .btn-primary{float:right;}
 
-.add-on {color:red;}
+
+.add-on {color:lightblue;}
+.loginnav input{background-color:lightblue;}
+.prepend {background-color:black;}

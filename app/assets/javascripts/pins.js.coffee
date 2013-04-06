@@ -7,13 +7,21 @@
 #	$('#pins').imagesLoaded ->
 #		$('#pins').masonry itemSelector: ".box"
 
+$ ->
+  
+  # Setup drop down menu
+  $(".dropdown-toggle").dropdown()
+  
+  # Fix input element click problem
+  $(".dropdown input, .dropdown label").click (e) ->
+    e.stopPropagation()
+
 jQuery ->
   $container = $("#pins")
   $container.imagesLoaded ->
     $container.masonry
       itemSelector: ".box"
-      gutterWidth:10
-      columnWidth: 50
+      gutterWidth:26
 # the columnWidth came with script not sure exactly how but at 50 it only allow three pins with it removed it fills up the container with them may need to remove if a problem arises
 
   $container.infinitescroll

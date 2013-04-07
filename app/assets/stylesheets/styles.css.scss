@@ -5,10 +5,10 @@ $baseFontFamily: Oxygen;
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
 
 
-$btnPrimaryBackground: lightblue;  
+$btnPrimaryBackground: #d4daf6;  
 $navbarBackgroundHighlight: #444;	
 $navbarBackground: #13101d;
-$navbarLinkColor:lightblue;
+$navbarLinkColor: #d4daf6;
 
 
 @import 'bootstrap';
@@ -38,16 +38,18 @@ body { padding-top:60px; margin: 0;
           height:40px;
 	       margin-top:90px; 
          box-shadow: 1px 1px 4px #fff;
-	       color: $grayLighter; text-align:center;
+	       color: #d4daf6; text-align:center;
 	     a {
-		    color:$grayLighter;}
+		    color:#d4daf6;}
 	     }
 
 
 
-.hero-unit h1 {color:lightblue;}
+.hero-unit h1 {color:#b2bbe9;}
 
-.hero-unit p {color:lightblue;}
+.hero-unit p {color:#d4daf6;}
+
+.hero-unit a {color:#b2bbe9}
 
 
 
@@ -65,14 +67,14 @@ body {@include gradient-radial; padding-bottom:500px;}
 
 .box { @include translucent-background;
 	margin: 5px; 
-	padding: 5px; 
+	padding: 8px; 
 	font-size: 11px; 
 	line-height: 1.4em; 
 	float: left;
-	-webkit-border-radius: 5px;
+	-webkit-border-radius: 15px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-	box-shadow: 1px 1px 3px #fff;
+	box-shadow: 1px 1px 3px #b2bbe9;
 	width: 193px;
 	}
 
@@ -85,7 +87,8 @@ body {@include gradient-radial; padding-bottom:500px;}
 
 }
 
-.box p {color:#999;}
+.box p {color:#d4daf6;}
+.box a {color:#b2bbe9}
 
 .img-polaroid {
   padding: 4px;
@@ -205,8 +208,28 @@ body {@include gradient-radial; padding-bottom:500px;}
 
 .hpsignup {float:right; margin-top:-55px;padding:0;}
 .hpsignup .btn-primary{float:right;}
+.hpsignup input {background-color:#d4daf6;}
 
+.add-on {color:#d4daf6;}
+.loginnav input{background-color:#d4daf6;}
+.loginnav ::-webkit-input-placeholder {
+   color: #131116;
+}
 
-.add-on {color:lightblue;}
-.loginnav input{background-color:lightblue;}
+.loginnav :-moz-placeholder { /* Firefox 18- */
+   color: #131116;  
+}
+
+.loginnav ::-moz-placeholder {  /* Firefox 19+ */
+   color: #131116;  
+}
+
+.loginnav :-ms-input-placeholder {  
+   color: #131116;  
+}
+.loginnav .btn-primary {color: #131116;}
 .prepend {background-color:black;}
+
+.dropdown-menu {background-color:#131116; padding:10px;}
+
+.container .brand {margin-left:10px;}

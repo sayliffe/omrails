@@ -22,6 +22,11 @@
 		    </ul>
 		   
         <ul class="nav pull-right">
+          <% if @admin %>
+            <li><%= link_to "Moderate", about_path %></li>
+          <% else %>
+            <li></li>
+            <% end %>
           <% if user_signed_in? %>
             <li><%= link_to "Add +", new_pin_path %></li>
             <li><%= link_to "Edit Profile", edit_user_registration_path %> </li>
@@ -49,7 +54,8 @@
         </ul>
       </li>
                <li><a href="#">|</a></li>
-      <li> <%= link_to "Sign up", new_user_registration_path%> </li>     
+      <li> <%= link_to "Sign up", new_user_registration_path%> </li> 
+      <li> <%= link_to "Sign in with Twitter", user_omniauth_authorize_path(:twitter) %> </li>    
 
 		     <% end %>
       

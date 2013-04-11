@@ -5,6 +5,7 @@
 <div class="hero-unit">
 	<div class="hpsignup">
 	<p>New to OMRails? Sign up Today!!!</p>
+	<p> <%= link_to "Sign up now!", new_user_registration_path, class: "btn btn-primary btn-large" %> </p>
 	<%= simple_form_for("user", :url => user_registration_path) do |f| %>
   	<%= f.input :name, label: false, placeholder: 'name'%>
   	<%= f.input :email, label: false, placeholder:  'email' %>

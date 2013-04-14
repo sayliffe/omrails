@@ -11,6 +11,7 @@ $navbarBackground: #13101d;
 $navbarLinkColor: #d4daf6;
 
 
+
 @import 'bootstrap';
 
 body { padding-top:60px; margin: 0;
@@ -20,6 +21,13 @@ body { padding-top:60px; margin: 0;
 
 
 @import 'bootstrap-responsive';
+
+
+h1 {color:#b2bbe9;}
+h2 {color:#b2bbe9;}
+p {color:#d4daf6;}
+a {color:#b2bbe9;}
+.container p {margin-left:10px;}
 
 @mixin translucent-background($color: $black, $alpha: .2) {
   background-color: hsla(hue($color), saturation($color), lightness($color), $alpha);
@@ -234,4 +242,19 @@ body {@include gradient-radial; padding-bottom:500px;}
 
 .container .brand {margin-left:10px;}
 
-.alert {background-color:#131116;color:white;}
+.alert {background-color:#131116;color:#b2bbe9;margin-top:30px;margin-bottom:60px;border:none;}
+
+.container[role="main"] {
+            padding-bottom: 80px;
+        }
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+.headmarg {margin-left:30px;}
+.form-actions {background-color:#131116;border:none;margin-top:60px;}
+.slinks {margin-left:25px;}
+
+

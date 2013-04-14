@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<%= render 'layouts/header' %>
-		<div class="container transitions-enabled clearfix masonry">
+		<div class="container transitions-enabled clearfix masonry" role="main">
 			<% flash.each do |name, msg| %>
 				<%= content_tag(:div, msg, class: "alert alert-#{name}") %>
 			<% end %>
